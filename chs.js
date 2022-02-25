@@ -61,7 +61,7 @@ var cnItems = {
     "Congratulations!": "恭喜！",
     "Electron": "电子",
     "Element.js by": "Element.js 由",
-    "Fabric of time": "时间的织物",
+    "Fabric of time": "时间结构",
     "fabric of time, which is generated based on your Universe time": "时间结构，根据你的宇宙时间生成",
     "Fabric Time": "时间结构",
     "Hard Reset": "硬重置",
